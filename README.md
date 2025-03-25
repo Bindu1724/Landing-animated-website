@@ -4,5 +4,6 @@ Creating a landing page with animations is a fantastic way to grab visitors' att
 
 Here I used HTML, CSS and JavaScript to built this webpage.
 
-## Run code
-Use <b> python main.py</b> to run the code.
+## Output
+Here is the webpage's live link
+
