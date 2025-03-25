@@ -7,3 +7,4 @@ Here I used HTML, CSS and JavaScript to built this webpage.
 ## Output
 Here is the webpage's live link
 
+https://bindu1724.github.io/Landing-animated-website/
